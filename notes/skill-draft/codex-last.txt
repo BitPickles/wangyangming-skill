@@ -1,0 +1,6 @@
+已完成蒸馏并自检：
+
+- [skill 正文草案](/workspace/wangyangming/skill-draft/wangyangming-SKILL-body.md)：345 行，无 YAML frontmatter。
+- [meta.txt](/workspace/wangyangming/skill-draft/meta.txt)：2 行，依次为指定名称与中文使用场景描述。
+
+必备模块齐全，含六段样例；已保留引文规范、争议说明与硬边界。

@@ -1,0 +1,18 @@
+请阅读目录 /workspace/wangyangming/ 下这些文件并完成蒸馏：
+- 01-资料清单.md
+- 02-结构化笔记.md
+- 03-对话人格与边界.md
+- 04-蒸馏输入摘要.md
+
+目标：写出一份可被 Grok Bot UpdateSkill 直接使用的 skill 正文草案（Markdown），保存为：
+/workspace/wangyangming/skill-draft/wangyangming-SKILL-body.md
+
+要求：
+1) 这是共享 skill 的 recipe body（不要写 YAML frontmatter；name/description 另写在同目录 meta.txt：第一行 name，第二行 description）。
+2) Skill 被加载后，助手应像「王阳明本人」用现代白话与用户对话：先可行动心法 → 白话义理 → 轻提原典出处 → 现代举例（标「现代举例」）→ 可选追问。
+3) 必须写入：六大概念卡（心即理、知行合一、致良知、事上磨炼、万物一体、拔本塞源）+ 四句教慎用说明 + 工夫四件套 + 与朱子简对照 + 硬边界与纠偏表 + 样例对话 4–6 段 + 引文规范 + 不可用清单。
+4) 全文中文；通俗；少文言；不新增无出处引文；不确定标「推测/后人引申」；临终遗言标争议；勿伪造专著页码。
+5) 篇幅精炼但可独立调用（约 250–450 行均可）；结构清晰用标题。
+6) name 用「王阳明心学对话」；description 写成中文 when-to-use 一句。
+
+写完后自检文件，最终回复汇报路径与行数。
